@@ -1,5 +1,5 @@
 # Adeyemo Emmanuel Oluwabukunmi 👋
-Hello, I’m Adeyemo Emmanuel Oluwabukunmi, a Front-end developer and an App developer dedicated to building innovative websites and apps that help individuals and organizations address their specific challenges. My intrest lies in elevating technology to create solutions that make a difference in the society. My expertise encompasses front-end and app development, ensuring a seamless user experience. 
+Hello, I’m Adeyemo Emmanuel Oluwabukunmi, a Front-end developer and an App developer dedicated to building innovative websites and apps that help individuals and organizations address their specific challenges. My interest lies in elevating technology to create solutions that make a difference in the society. My expertise encompasses front-end and app development, ensuring a seamless user experience. 
 
 ## Skills and Experience
 ### Front-End Development
